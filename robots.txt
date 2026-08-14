@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://https://github.com/bmworiginalautopart/bmw-g82-bucket-seats/sitemap.xml
